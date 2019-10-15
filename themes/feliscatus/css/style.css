@@ -2,3 +2,25 @@
  * If using a CSS pre-processor, tell it to overwrite this file. If not, place
  * your custom CSS modifications here.
  */
+.block-views-blockblog-posts-block-1 .views-row {
+      overflow: hidden;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #F2F2F2;
+    padding-bottom: 25px;
+}
+.block-views-blockblog-posts-block-1 .views-field-nothing h4 {
+  text-transform: uppercase;
+  margin: 20px 0 30px;
+}
+.block-views-blockblog-posts-block-1 .views-field-nothing h4 a {
+  text-decoration: none;
+  color: #242424;
+  transition: all 0.2s ease 0s;
+  outline: 0;
+}
+.block-views-blockblog-posts-block-1 .views-field-nothing .blog-body p {
+  margin: 15px 0;
+}
+.block-views-blockblog-posts-block-1 .views-field-nothing h4 a:hover {
+  color: #ff600a;
+}
