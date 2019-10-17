@@ -27,3 +27,6 @@
 .region-sidebar-second {
   width: 340px;
 }
+.page-node-type-article .field--name-body {
+  margin-top: 30px;
+}
