@@ -24,3 +24,6 @@
 .block-views-blockblog-posts-block-1 .views-field-nothing h4 a:hover {
   color: #ff600a;
 }
+.region-sidebar-second {
+  width: 340px;
+}
