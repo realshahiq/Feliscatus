@@ -8,6 +8,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   color: #d9d9d9;
+  margin-top: 0px;
  }
  h4 a{
     color: #d9d9d9;
@@ -39,4 +40,33 @@
 .page-node-type-article .field--name-body {
   margin-top: 30px;
   margin-bottom: 30px;
+}
+@media (min-width: 768px) {
+  .navbar-header {
+    float: none;
+  }
+  #block-feliscatus-account-menu .navbar-right {
+    margin-right: 0px;
+  }
+}
+.navbar-header .region-navigation .logo img {
+  height: 100px;
+}
+.navbar-header .region-navigation .name{
+  display: none;
+}
+.navbar-default {
+  background-color: transparent !important;
+  border-color: transparent !important;
+}
+.navbar-collapse {
+  padding: 0 0 0 10px;
+  background: rgba(0.1,0.1,0.1,.6);
+}
+.region-navigation-collapsible li a:hover {
+  color: #ff600a !important;
+}
+.region-navigation-collapsible li a {
+  padding: 17px 7px;
+  text-transform: uppercase;
 }
