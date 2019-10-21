@@ -74,3 +74,37 @@
   color: #ff600a;
   background-color: transparent;
 }
+.path-forum table thead th {
+  width: 150px;
+}
+.path-forum table thead th:nth-child(4) {
+  width: 200px;
+}
+.path-forum table tr {
+  height: 30px;
+}
+.path-forum table tr td a {
+  color: #85e500;
+}
+.path-forum table tr td a:hover {
+  color: #ff600a;
+}
+.path-forum .table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: transparent;
+}
+.page-node-type-forum .comment-reply {
+  display: none;
+}
+.page-node-type-forum article footer a {
+  display: none;
+}
+.page-node-type-forum .content article {
+  margin-bottom: 15px;
+}
+.page-node-type-forum .field--name-body {
+  margin-bottom: 30px;
+}
+.page-node-type-forum .js-comment {
+  border: 1px solid;
+  padding: 0px 10px 10px 20px;
+}
