@@ -70,3 +70,7 @@
   padding: 17px 7px;
   text-transform: uppercase;
 }
+.navbar-default .navbar-nav > .active > a {
+  color: #ff600a;
+  background-color: transparent;
+}
