@@ -127,3 +127,29 @@
   padding: 30px 29px 20px;
   float: left;
 }
+.social-media .left {
+  float: left;
+}
+.social-media .right {
+  float: right;
+}
+.top {
+  padding: 8px 0 0 0;
+  background: rgba(0.1,0.1,0.1,.6);
+}
+.social-media .right a {
+  color: #85e500;
+}
+.social-media .right ul {
+  list-style: none;
+}
+.social-media .right li {
+  display: inline-block;
+}
+.social-media .left a {
+  color: #d9d9d9;
+  text-decoration: none;
+}
+.social-media .left a:hover {
+  color: #BCBCBC;;
+}
