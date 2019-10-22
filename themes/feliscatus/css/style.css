@@ -153,3 +153,7 @@
 .social-media .left a:hover {
   color: #BCBCBC;;
 }
+.container > .navbar-collapse {
+  margin-left: -15px;
+  margin-right: -15px;
+}
