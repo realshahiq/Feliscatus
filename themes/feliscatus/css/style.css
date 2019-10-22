@@ -108,3 +108,22 @@
   border: 1px solid;
   padding: 0px 10px 10px 20px;
 }
+.page-node-type-forum .js-comment h3 {
+  margin-top: 0px;
+}
+.page-node-type-forum .js-comment h3 a {
+  color: #85e500;
+}
+.page-node-type-forum .js-comment h3 a:hover {
+  color: #ff600a;
+  text-decoration: none;
+}
+.well {
+  background-color: transparent;
+  border: none;
+  background-color: transparent;
+  border: none;
+  border-left: 1px solid #444;
+  padding: 30px 29px 20px;
+  float: left;
+}
