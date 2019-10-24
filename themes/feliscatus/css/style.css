@@ -75,7 +75,7 @@
   background-color: transparent;
 }
 .path-forum table thead th {
-  width: 150px;
+  width: 155px;
 }
 .path-forum table thead th:nth-child(4) {
   width: 200px;
@@ -180,7 +180,7 @@
 }
 .footer li a:hover {
   background-color: transparent;
-  color: #ff600a
+  color: #ff600a;
 }
 
 .footer #block-feliscatus-footer li {
@@ -191,4 +191,20 @@
 }
 .path-user .region-content .row {
   margin-top: 40px;
+}
+.path-forum table {
+  background-color: transparent;
+  background: #fafafa;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-top: 0;
+  color: black;
+}
+.path-forum table tr {
+  background: #fafafa;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-top: 0;
+  padding: 6px 0 0;
+  height: 61px;
 }
