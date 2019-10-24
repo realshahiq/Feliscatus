@@ -187,7 +187,7 @@
   display: inline-block;
 }
 .path-user .field--name-user-picture img {
-  border-right: 50%;
+  border-radius: 50%;
 }
 .path-user .region-content .row {
   margin-top: 40px;
