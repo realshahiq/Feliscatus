@@ -157,3 +157,33 @@
   margin-left: -15px;
   margin-right: -15px;
 }
+.footer {
+  border-top: none;
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: center;
+   color: #777;
+  background: rgba(0.1,0.1,0.1,.6);
+}
+.footer #block-feliscatus-footer {
+  height: 50px;
+  overflow: hidden;
+  text-align: center;
+}
+.footer #block-feliscatus-footer ul {
+  list-style: none;
+}
+.footer li a {
+  padding: 17px 7px;
+  color: #777;
+  text-transform: uppercase;
+}
+.footer li a:hover {
+  background-color: transparent;
+  color: #ff600a
+}
+
+.footer #block-feliscatus-footer li {
+  display: inline-block;
+}
