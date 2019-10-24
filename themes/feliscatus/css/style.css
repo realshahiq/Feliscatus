@@ -186,3 +186,9 @@
 .footer #block-feliscatus-footer li {
   display: inline-block;
 }
+.path-user .field--name-user-picture {
+  border-right: 50%;
+}
+.path-user .region-content .row {
+  margin-top: 40px;
+}
